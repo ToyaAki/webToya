@@ -68,6 +68,6 @@
 - CSSは配置やデザイン
 　<br><br>
 - HTMLのみの場合
-![start](img/01_start1-6.jpg)
+![start](img/01_start1-6.png)
 - 
 - 

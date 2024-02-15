@@ -66,3 +66,8 @@
 
 - HTMLはWebサイトの土台を作る
 - CSSは配置やデザイン
+　<br><br>
+- HTMLのみの場合
+![start](img/01_start1-6.jpg)
+- 
+- 
